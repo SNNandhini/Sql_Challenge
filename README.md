@@ -71,9 +71,11 @@ The following were done as part of this section:
     -   The connecton string was then used to connect to the database using the sqlalchemy built-in module.
 2)  The data was then pulled into a dataframe by creating a query joining employees, titles and salaries tables.
 3)  A histogram was created on the "salary" column in the datafame, to visualize the employee salary ranges that were the most common.
+
     ![image](https://user-images.githubusercontent.com/111614210/199325808-5eef1ed9-6a3a-4ee1-a19b-b18124b05db7.png)
     
 4)  The dataframe was then grouped by employee titles to create a bar chart for average salary by employee title.
+
     ![image](https://user-images.githubusercontent.com/111614210/199326199-6d121a47-0820-4144-b846-a3f9cfd0fe0f.png)
 
 The Jupyter Notebook used for the bonus section is **Bonus_Employee_db.ipynb**.
