@@ -28,7 +28,7 @@ As part of this activity, the following activities were performed using PostgreS
     - Copied the data from the staging table in the required format to the employees table.
     - Dropped the staging table after successfully loading the employee table.
     
-The sql used to create the tables in the database can be found in **Data_Engineering_Employee_db.sql**
+The SQLs used to create tables in the database can be found in **Data_Engineering_Employee_db.sql**
 
 ## Data Analysis
 The following were analysed by quering the database:
@@ -61,7 +61,7 @@ The following were analysed by quering the database:
 
     ![image](https://user-images.githubusercontent.com/111614210/199322553-5fe91078-8cd5-4395-b61b-f33944e5341d.png)
 
-The sql used for data analysis can be found in **Data_Analysis_Employee_db.sql**
+The SQLs used for data analysis can be found in **Data_Analysis_Employee_db.sql**
 
 ## Bonus
 The following were done as part of this section:
@@ -77,3 +77,13 @@ The following were done as part of this section:
     ![image](https://user-images.githubusercontent.com/111614210/199326199-6d121a47-0820-4144-b846-a3f9cfd0fe0f.png)
 
 The Jupyter Notebook used for the bonus section is **Bonus_Employee_db.ipynb**.
+
+## Files Uploaded
+1)  **ERD** - Sql_Challenge/EmployeeSQL/ERD_Employee_db.png
+2)  **Schema Documentation** - Sql_Challenge/EmployeeSQL/Employee Schema.pdf
+3)  **Tables creation SQLs** - Sql_Challenge/EmployeeSQL/Data_Engineering_Employee_db.sql
+4)  **Data Analysis Queries** - Sql_Challenge/EmployeeSQL/Data_Analysis_Employee_db.sql
+5)  **Bonus Analysis Jupyter Notebook** - Sql_Challenge/EmployeeSQL/Bonus_Employee_db.ipynb
+6)  **SQLs output images** - Sql_Challenge/EmployeeSQL/Images_SQL_Output/
+7)  **Input data files** - Sql_Challenge/EmployeeSQL/data/
+
